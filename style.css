@@ -1,6 +1,15 @@
 body{
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   background-color: #DDDDDD;
 }
 header{
    text-align: center;
+   background-color:#658864 ;
 }
+.table{
+    background-color: #DDDDDD  ;
+}
+.input-group{
+    background-color: #DDDDDD;
+}
+/* Color scheme is : #658864 , #B7B78A , #DDDDDD , #EEEEEE
