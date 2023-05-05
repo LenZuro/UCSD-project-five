@@ -6,6 +6,10 @@ header{
    text-align: center;
    background-color:#658864 ;
 }
+button{
+    width: 100%;
+    background-color: goldenrod;
+}
 .table{
     background-color: #DDDDDD  ;
 }
